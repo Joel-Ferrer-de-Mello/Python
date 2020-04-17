@@ -1,0 +1,6 @@
+Modo r abre arquivo somente leitura.
+Modo w abre arquivo para escrita, caso já exista será apagado e um novo arquivo vazio será criado.
+Modo a abre arquivo para leitura e escrita, adiciona o novo conteúdo ao fim do arquivo.
+Modo r+ abre arquivo para leitura e escrita.
+Modo w+ abre arquivo para escrita, também apagada o conteúdo do arquivo anterior.
+Modo a+ abre arquivo para leitura e escrita (atualização).
